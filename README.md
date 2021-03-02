@@ -1,5 +1,9 @@
 # Estatistica.Projeto
 Projeto para matéria de Estatistica
+Alunos: 
+- Pedro Raphael
+- João Marques
+- Bruna Carvalho
 
 # Como jogar
 O projeto consiste em recriar a história da chapéuzinho vermelho, o narrador dita a história e no momento que você precisar tomar uma decisão. Ex.: A chapéuzinho andava
